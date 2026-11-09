@@ -1,2 +1,2 @@
 # primera parte de resultados 
-![alt text](image.png)
+![alt text](image-1.png)
